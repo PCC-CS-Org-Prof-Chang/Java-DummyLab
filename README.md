@@ -1,8 +1,8 @@
-# Java-MonthToMonth
-Group Discussion: Month number to Month String converstion assignment
+# [TODO:Java-DummyLab; replace with proper lab assignment]
+Lab: [TODO:Java-DummyLab; replace with proper lab assignment]
 
 The assignment
-The tests are currently failing because of an output mismatch. Fixing the TODOs in the main method will make the tests green.
+The tests are currently failing because of an output mismatch. [TODO:Java-DummyLab; replace with proper lab assignment]
 
 Setup command
 N/A
